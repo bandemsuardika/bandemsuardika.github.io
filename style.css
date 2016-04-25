@@ -23,11 +23,11 @@ html {
 
 	background: #AB1654;
 	border-radius: 3px;
-	box-shadow: 0px 4px #A80000, 0px 10px 15px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 4px #A800B0, 0px 10px 15px rgba(0, 0, 0, 0.2);
 }
 #judul h1{
 	font-size: 30px;
-	color: #E4FDE1;
+	color: #E4F0E1;
 	font-family: Roboto;
 }
 
@@ -39,9 +39,9 @@ html {
 	padding: 20px 20px 9px;
 	
 	background: #9dd2ea;
-	background: linear-gradient(#9dd2ea, #8bceec);
+	background: linear-gradient(#7dd2ea, #8baeec);
 	border-radius: 3px;
-	box-shadow: 0px 4px #009de4, 0px 10px 15px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 4px #a09de4, 0px 10px 15px rgba(0, 0, 0, 0.2);
 }
 
 .top span.clear {
@@ -103,13 +103,13 @@ html {
 
 .keys span.eval {
 	background: #f1ff92;
-	box-shadow: 0px 4px #9da853;
+	box-shadow: 0px 4px #8da853;
 	color: #888e5f;
 }
 
 .top span.clear {
-	background: #ff9fa8;
-	box-shadow: 0px 4px #ff7c87;
+	background: #ef9fa8;
+	box-shadow: 0px 4px #ef7c87;
 	color: white;
 }
 
